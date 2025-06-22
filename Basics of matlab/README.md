@@ -1,1 +1,1 @@
-This contains basic of matlab
+This contains basics of matlab
